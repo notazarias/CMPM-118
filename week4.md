@@ -1,8 +1,11 @@
-What did you do this week?
-  Almost caught up on rustling projects currently on ch 9
-  
-• What do you plan to do in the coming week?
-  trying to get to ch 14 in the book 
-  
-• What, if anything, piqued your interest in the work you did this week?
-  read up on arrakis and attemped to learn about the operating system 
+What I did this week
+Made a lot of progress this week — almost fully caught up on Rustlings and currently working through Chapter 9 of the Rust book. I also read up on Arrakis and spent some time trying to get a better understanding of how that operating system works.
+
+What piqued my interest
+Two things stood out this week. Learning about lifetimes and traits in Rust was genuinely interesting they're some of the more unique parts of the language and they're starting to click the more I work with them. Reading about Arrakis was cool too, it was interesting to start understanding the ideas behind it and see how it connects to what we're working toward in the class.
+
+What I plan to do next week
+I want to push through to Chapter 14 in the Rust book and keep building on the momentum from this week.
+
+
+arrakis summary: 
